@@ -1,4 +1,4 @@
-# BA JHFEWA
+# Biró András - JHFEWA
 
 def print_hi(name):
     print(f'Hi, {name}')
